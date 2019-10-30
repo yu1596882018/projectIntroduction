@@ -30,7 +30,7 @@
     + 移动端：项目重构、脚手架搭建、组件封装、规划项目交互与用户体验等
 + 截图预览：
     + pc端：
-        + ![./images/ufeifan-pc-01.png](./images/ufeifan-pc-01.png)
+        + ![./images/ufeifan-pc-01.jpg](./images/ufeifan-pc-01.jpg)
         + ![./images/ufeifan-pc-02.png](./images/ufeifan-pc-02.png)
         + ![./images/ufeifan-pc-03.png](./images/ufeifan-pc-03.png)
         + 重构页：![./images/ufeifan-pc-04.png](./images/ufeifan-pc-04.png)
