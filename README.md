@@ -97,14 +97,14 @@
     + 其他端：uni-app + vuex + scss；
 + 我的职责：项目架构、项目成型前的业务开发、数据上报、难点开发，如：阅读器模块
 + 截图预览：
-   + ![书架](./images/shushi-01.png)
-   + ![历史](./images/shushi-02.png)
-   + ![首页](./images/shushi-03.png)
+   + ![书架](./images/shushi-01.jpg)
+   + ![历史](./images/shushi-02.jpg)
+   + ![首页](./images/shushi-03.jpg)
    + ![我的](./images/shushi-04.png)
    + ![排行榜](./images/shushi-05.png)
    + ![分类](./images/shushi-06.png)
    + ![搜索](./images/shushi-07.png)
-   + ![书本详情](./images/shushi-08.png)
+   + ![书本详情](./images/shushi-08.jpg)
    + ![阅读页1](./images/shushi-09.png)
    + ![阅读页2](./images/shushi-10.png)
    + ![登录页](./images/shushi-11.png)
