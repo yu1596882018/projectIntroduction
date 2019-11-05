@@ -42,19 +42,19 @@
         + 重构页：![支付页](http://cms-hdgg.jschengta.com/images/ufeifan-pc-06.png)
         
     + 移动端：
-        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png" alt="首页" width="750px"/>
-        + ![机票列表页-去程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-02.png)
-        + ![机票列表页-返程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-03.png)
-        + ![机票详情页](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-04.png)
-        + ![下单页1](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-05.png)
-        + ![下单页2](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-06.png)
-        + ![支付页](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-07.png)
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png" alt="首页" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-02.png" alt="机票列表页-去程" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-03.png" alt="机票列表页-返程" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-04.png" alt="机票详情页" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-05.png" alt="下单页1" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-06.png" alt="下单页2" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-07.png" alt="支付页" width="375px"/>
     + 我封装的组件：
-        + ![日历选择组件](http://cms-hdgg.jschengta.com/images/ufeifan-component-01.png)
-        + ![城市选择组件1](http://cms-hdgg.jschengta.com/images/ufeifan-component-02.png)
-        + ![城市选择组件2](http://cms-hdgg.jschengta.com/images/ufeifan-component-03.png)
-        + ![滚动选择组件-日期](http://cms-hdgg.jschengta.com/images/ufeifan-component-04.png)
-        + ![滚动选择组件-签发地](http://cms-hdgg.jschengta.com/images/ufeifan-component-05.png)
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-component-01.png" alt="日历选择组件" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-component-02.png" alt="城市选择组件1" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-component-03.png" alt="城市选择组件2" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-component-04.png" alt="滚动选择组件-日期" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-component-05.png" alt="滚动选择组件-签发地" width="375px"/>
         + ![select UI组件 与input UI组件](http://cms-hdgg.jschengta.com/images/ufeifan-component-06.png)
         + ![select UI组件2](http://cms-hdgg.jschengta.com/images/ufeifan-component-07.png)
 
@@ -68,17 +68,17 @@
 + 截图预览：
    + pc端：![首页](http://cms-hdgg.jschengta.com/images/bjwlz-pc.png)
    + 移动端： 
-        + ![首页1](http://cms-hdgg.jschengta.com/images/bjwlz-mobile-01.jpg)
-        + ![首页2](http://cms-hdgg.jschengta.com/images/bjwlz-mobile-02.jpg)
+        + <img src="http://cms-hdgg.jschengta.com/images/bjwlz-mobile-01.jpg" alt="首页1" width="375px"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/bjwlz-mobile-02.jpg" alt="首页2" width="375px"/>
 
 #### 京尚品（小程序，已废弃）
 + 项目简介：购物商城、京东合作项目、以mpvue为主、整个小程序分为商品、分类、购物车、订单、钱包、优惠券几个大模块，包含五十多个页面，业务体系【较大】、同时拥有Android ios 微信小程序三个终端、项目已经做出成品，尚未上线运营，就因商务问题而放弃。
 + 技术组成：mpvue + scss等；
 + 我的职责：独立开发、代码架构、webpack脚手架扩展
 + 截图预览（由于服务端已经全部停用了，现在只能看到大致框架）：
-   + ![安卓版首页](http://cms-hdgg.jschengta.com/images/jsp-01.jpg)
-   + ![小程序首页](http://cms-hdgg.jschengta.com/images/jsp-02.jpg)
-   + ![小程序我的页面](http://cms-hdgg.jschengta.com/images/jsp-03.jpg)
+   + <img src="http://cms-hdgg.jschengta.com/images/jsp-01.jpg" alt="安卓版首页" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/jsp-02.jpg" alt="小程序首页" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/jsp-03.jpg" alt="小程序我的页面" width="375px"/>
 
  
 #### 互动广告后台管理系统（pc端）与活动页（移动端）
@@ -97,15 +97,15 @@
     + 其他端：uni-app + vuex + scss；
 + 我的职责：项目架构、项目成型前的业务开发、数据上报、难点开发，如：阅读器模块
 + 截图预览：
-   + ![书架](http://cms-hdgg.jschengta.com/images/shushi-01.jpg)
-   + ![历史](http://cms-hdgg.jschengta.com/images/shushi-02.jpg)
-   + ![首页](http://cms-hdgg.jschengta.com/images/shushi-03.jpg)
-   + ![我的](http://cms-hdgg.jschengta.com/images/shushi-04.png)
-   + ![排行榜](http://cms-hdgg.jschengta.com/images/shushi-05.png)
-   + ![分类](http://cms-hdgg.jschengta.com/images/shushi-06.png)
-   + ![搜索](http://cms-hdgg.jschengta.com/images/shushi-07.png)
-   + ![书本详情](http://cms-hdgg.jschengta.com/images/shushi-08.jpg)
-   + ![阅读页1](http://cms-hdgg.jschengta.com/images/shushi-09.png)
-   + ![阅读页2](http://cms-hdgg.jschengta.com/images/shushi-10.png)
-   + ![登录页](http://cms-hdgg.jschengta.com/images/shushi-11.png)
-   + ![充值中心](http://cms-hdgg.jschengta.com/images/shushi-12.png)
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-01.jpg" alt="书架" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-02.jpg" alt="历史" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-03.jpg" alt="首页" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-04.png" alt="我的" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-05.png" alt="排行榜" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-06.png" alt="分类" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-07.png" alt="搜索" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-08.jpg" alt="书本详情" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-09.png" alt="阅读页1" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-10.png" alt="阅读页2" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-11.png" alt="登录页" width="375px"/>
+   + <img src="http://cms-hdgg.jschengta.com/images/shushi-12.png" alt="充值中心" width="375px"/>
