@@ -7,7 +7,7 @@
 + 项目简介：演示公司前端框架各个api的用法与案例。让新入职的前端同事，能够快速上手公司所用技术栈。
 + 技术组成：require.js + Bootstrap + jQuery + font awesome等；
 + 我的职责：参与大部分的api文档编写
-+ 截图预览：![首页](http://cms-hdgg.jschengta.com/images/freswork.png){:width="100px"}
++ 截图预览：![首页](http://cms-hdgg.jschengta.com/images/freswork.png)
 
 
 #### Trafree平台和总控的开发与维护（pc端）
@@ -42,7 +42,7 @@
         + 重构页：![支付页](http://cms-hdgg.jschengta.com/images/ufeifan-pc-06.png)
         
     + 移动端：
-        + ![首页](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png)
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png" alt="首页" style="width: 750px;"/>
         + ![机票列表页-去程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-02.png)
         + ![机票列表页-返程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-03.png)
         + ![机票详情页](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-04.png)
