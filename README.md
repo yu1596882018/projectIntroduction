@@ -42,7 +42,7 @@
         + 重构页：![支付页](http://cms-hdgg.jschengta.com/images/ufeifan-pc-06.png)
         
     + 移动端：
-        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png" alt="首页" style="width: 750px;"/>
+        + <img src="http://cms-hdgg.jschengta.com/images/ufeifan-mobile-01.png" alt="首页" width="750px"/>
         + ![机票列表页-去程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-02.png)
         + ![机票列表页-返程](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-03.png)
         + ![机票详情页](http://cms-hdgg.jschengta.com/images/ufeifan-mobile-04.png)
