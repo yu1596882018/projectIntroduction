@@ -3,7 +3,7 @@
 + 技术组成：require.js + fis3 + gulp + Bootstrap + jQuery系列 + EasyUI + airTemplate + Font awesome + Freemarker等；
 + 我的职责：日常开发与维护、解决技术难点
 + 截图预览：
-   + 平台：![平台首页](https:static.xinyu8.wang/images/trafree-platform.png)
+   + 平台：![平台首页](./../images/trafree-platform.png)
    + 总控：![总控](http://cms-hdgg.jschengta.com/images/trafree-admin.png)
 
 ##### [前往项目目录](./../README.md)
